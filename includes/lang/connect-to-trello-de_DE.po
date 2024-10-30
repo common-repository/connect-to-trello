@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-08-04 10:53+0200\n"
+"PO-Revision-Date: 2016-08-04 10:56+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: includes\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: admin/connect-to-trello-controls.php:49
+msgid "Check your settings to see what this button exactly does."
+msgstr ""
+"Um zu sehen, was dieser Button genau tut, überprüfe deine Trello "
+"Einstellungen."
+
+#: admin/connect-to-trello-controls.php:55
+msgid "Add to Trello"
+msgstr "zu Trello hinzufügen"
+
+#: admin/connect-to-trello-settings.php:31
+msgid "Connect to Trello"
+msgstr "Mit Trello verbinden"
+
+#: admin/connect-to-trello-settings.php:38
+msgid "Create your Checklist"
+msgstr "Erstelle deine Checkliste"
+
+#: admin/connect-to-trello-settings.php:45
+msgid "API Key"
+msgstr "API Schlüssel"
+
+#: admin/connect-to-trello-settings.php:53
+msgid "Board"
+msgstr "Board"
+
+#: admin/connect-to-trello-settings.php:61
+msgid "List"
+msgstr "List"
+
+#: admin/connect-to-trello-settings.php:69
+msgid "Title"
+msgstr "Titel"
+
+#: admin/connect-to-trello-settings.php:77
+msgid "Items"
+msgstr "Elemente"
+
+#: admin/connect-to-trello-settings.php:105
+msgid "Trello Settings"
+msgstr "Trello Einstellungen"
+
+#: admin/connect-to-trello-settings.php:110
+msgid "Save"
+msgstr "Speichern"
+
+#: admin/connect-to-trello-settings.php:121
+msgid ""
+"Visit <a target=\"_blank\" href=\"https://trello.com/\">Trello</a> and make "
+"sure you are logged in. Then get your Trello key <a target=\"_blank\" href="
+"\"https://trello.com/app-key\">here</a>, enter below and save."
+msgstr ""
+"Gehen Sie zu <a traget=\"_blank\" href=\"https://trello.com/\">Trello</a> "
+"und vergewissern Sie sich, dass Sie eingeloggt sind. Dann können sie ihren "
+"Trello Schlüssel <a href=\"https://trello.com/app-key\">hier</a> abrufen. "
+"Kopieren Sie diesen in das entsprechende Feld und speichern Sie die "
+"Einstellungen."
+
+#: admin/connect-to-trello-settings.php:128
+msgid ""
+"This checklist will be added to all new cards you generate from WordPress "
+"posts. Make sure to save your changes after you edit it."
+msgstr ""
+"Diese Checkliste wird zu allen neuen Karten hinzugefügt, die Sie aus "
+"WordPress Posts generieren. Speichern Sie immer die Einstellungen, wenn Sie "
+"Änderungen an der Checkliste vorgenommen haben."
+
+#: includes/connect-to-trello-loader.php:41
+msgid "Loading..."
+msgstr "Lädt..."
+
+#: includes/connect-to-trello-loader.php:42
+msgid "A new item"
+msgstr "Ein neues Element"
+
+#: includes/connect-to-trello-loader.php:43
+msgid "Select a board first."
+msgstr "Wähle zuerst ein Board."
+
+#: includes/connect-to-trello-loader.php:44
+msgid "Not connected."
+msgstr "Nicht verbunden."
+
+#: includes/connect-to-trello-loader.php:45
+msgid "Not authorized."
+msgstr "Nicht erkannt."
+
+#: includes/connect-to-trello-loader.php:60
+msgid "You are not connected to Trello."
+msgstr "Sie sind nicht mit Trello verbunden."
+
+#: includes/connect-to-trello-loader.php:61
+msgid "This post has been added to your Trello."
+msgstr "Dieser Post wurde zu Trello hinzugefügt."
+
+#: includes/connect-to-trello-loader.php:62
+msgid "Something went wrong. Please check your Trello Settings."
+msgstr "Etwas lief schief. Bitte überprüfe deine Trello Einstellungen."
